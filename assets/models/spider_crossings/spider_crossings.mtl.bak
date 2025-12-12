@@ -1,0 +1,912 @@
+# Blender 4.5.3 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl models/mapobjects/spotlamp/beam.vertex
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd beam.jpg
+
+newmtl models/mapobjects/spotlamp/spotlamp.vertex
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd spotlamp.tga
+
+newmtl models/mapobjects/spotlamp/spotlamp_l.vertex
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd spotlamp_l.jpg
+
+newmtl textures/base_floor/clang_floor2
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd clang_floor2.jpg
+
+newmtl textures/base_floor/clang_floor3bstairtop
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd clang_floor3bstairtop.jpg
+
+newmtl textures/base_floor/clangdark
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd clangdark.jpg
+
+newmtl textures/base_floor/clanggrate
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd clanggrate.jpg
+
+newmtl textures/base_floor/proto_grate4
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd proto_grate4.tga
+
+newmtl textures/base_floor/proto_grill
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd proto_grill.jpg
+
+newmtl textures/base_floor/tilefloor7
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tilefloor7.jpg
+
+newmtl textures/base_light/baslt4_1_2k
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd baslt4_1.jpg
+
+newmtl textures/base_light/ceil1_22a_8k
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ceil1_22a.jpg
+
+newmtl textures/base_light/ceil1_30_8k
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ceil1_30.jpg
+
+newmtl textures/base_light/light1blue_2000
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd light1blue.jpg
+
+newmtl textures/base_light/light1red_2000
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd light1red.jpg
+
+newmtl textures/base_light/light1red_5000
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd light1red.jpg
+
+newmtl textures/base_light/lt2_4000
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd light2.jpg
+
+newmtl textures/base_light/proto_light_2k
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd proto_light.jpg
+
+newmtl textures/base_light/proto_lightred2
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd proto_lightred.jpg
+
+newmtl textures/base_light/xceil1_39_20k
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ceil1_39.jpg
+
+newmtl textures/base_object/boxQ3_3
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd boxQ3_3.tga
+
+newmtl textures/base_object/boxq3_4
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd boxq3_4.tga
+
+newmtl textures/base_support/basic1_1
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd basic1_1.jpg
+
+newmtl textures/base_support/cable_trans
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd cable_trans.tga
+
+newmtl textures/base_support/flat1_1
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd flat1_1.jpg
+
+newmtl textures/base_support/grate1_3
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd grate1_3.tga
+
+newmtl textures/base_support/pip03_2
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd pip03_2.jpg
+
+newmtl textures/base_support/x_support
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd x_support.tga
+
+newmtl textures/base_trim/border12
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd border12.jpg
+
+newmtl textures/base_trim/dirty_pewter_big
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd dirty_pewter_big.jpg
+
+newmtl textures/base_trim/panel_edged
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd panel_edged.jpg
+
+newmtl textures/base_trim/panel_shiny
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd panel_shiny.tga
+
+newmtl textures/base_trim/panelbrn01scr
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd panelbrn01scr.jpg
+
+newmtl textures/base_trim/pewter
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd pewter.jpg
+
+newmtl textures/base_trim/pewter_shiney
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd pewter_shiney.tga
+
+newmtl textures/base_trim/proto_comp
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd proto_comp.tga
+
+newmtl textures/base_trim/proto_fence
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd proto_fence.tga
+
+newmtl textures/base_trim/spiderbit
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd spiderbit.jpg
+
+newmtl textures/base_trim/spiderbit2
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd spiderbit2.jpg
+
+newmtl textures/base_trim/spiderbit4
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd spiderbit4.jpg
+
+newmtl textures/base_trim/spidertrim
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd spidertrim.jpg
+
+newmtl textures/base_trim/wire02a_f
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wire02a_f.jpg
+
+newmtl textures/base_trim/wires02
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wires02.tga
+
+newmtl textures/base_trim/xspiderbit4
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd xspiderbit4.jpg
+
+newmtl textures/base_wall/atech3_a
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd atech3_a.jpg
+
+newmtl textures/base_wall/basewall01
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd basewall01.jpg
+
+newmtl textures/base_wall/basewall03
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd basewall03.jpg
+
+newmtl textures/base_wall/basewallbobbin
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd basewallbobbin.jpg
+
+newmtl textures/base_wall/concrete_dark
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd concrete_dark.jpg
+
+newmtl textures/base_wall/rusted
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd rusted.jpg
+
+newmtl textures/base_wall/rusted3
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd rusted3.jpg
+
+newmtl textures/common/clip.vertex
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd invisible.tga
+
+newmtl textures/ctf_unified/banner02_blue
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd banner02_blue.tga
+
+newmtl textures/ctf_unified/banner02_red
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd banner02_red.tga
+
+newmtl textures/ctf_unified/bounce_blue
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 1.000000 1.000000 1.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd bounce_base.tga
+
+newmtl textures/ctf_unified/bounce_neutral
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 1.000000 1.000000 1.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd bounce_base.tga
+
+newmtl textures/ctf_unified/bounce_red
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 1.000000 1.000000 1.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd bounce_base.tga
+
+newmtl textures/ctf_unified/floor_decal_blue.vertex
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd floor_logo_blue.tga
+
+newmtl textures/ctf_unified/floor_decal_red.vertex
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd floor_logo_red.tga
+
+newmtl textures/ctf_unified/monologo_noflash_blue.vertex
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd floor_monologo_blue.tga
+
+newmtl textures/ctf_unified/monologo_noflash_red.vertex
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd floor_monologo_red.tga
+
+newmtl textures/ctf_unified/plaque_shiny_blue
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd plaque_alpha_blue.tga
+
+newmtl textures/ctf_unified/plaque_shiny_red
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd plaque_alpha_red.tga
+
+newmtl textures/ctf_unified/ta_techspawn_blue
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tech_fx_blue.jpg
+
+newmtl textures/ctf_unified/ta_techspawn_red
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tech_fx_red.jpg
+
+newmtl textures/ctf_unified/wall_decal_blue
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wall_logo_blue.tga
+
+newmtl textures/ctf_unified/wall_decal_red
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wall_logo_red.tga
+
+newmtl textures/ctf_unified/weapfloor_blue
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd weapfloor_fx_blue.tga
+
+newmtl textures/ctf_unified/weapfloor_neutral
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd weapfloor_1.tga
+
+newmtl textures/ctf_unified/weapfloor_red
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd weapfloor_fx_red.tga
+
+newmtl textures/gothic_floor/xstepborder7
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd xstepborder7.jpg
+
+newmtl textures/gothic_light/gothic_light2_4K
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gothic_light2.jpg
+
+newmtl textures/gothic_light/gothic_light2_lrg_2k
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gothic_light2_lrg.jpg
+
+newmtl textures/gothic_light/gothic_light3_6K
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gothic_light3.jpg
+
+newmtl textures/gothic_light/pentagram_light1_5K
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd pentagram_light1.jpg
+
+newmtl textures/gothic_trim/metalsupport4i
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd metalsupport4i.jpg
+
+newmtl textures/gothic_trim/metalsupport4i_bit
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd metalsupport4i_bit.jpg
+
+newmtl textures/gothic_trim/metalsupport4j_trans
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd metalsupport4j.jpg
+
+newmtl textures/organics/pjrock7d
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd pjrock7d.jpg
+
+newmtl textures/sfx/beam.vertex
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd beam.jpg
+
+newmtl textures/sfx/fan3bladeb.vertex
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd fan3bladeb.tga
+
+newmtl textures/sfx/x_conduit
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd x_conduit.jpg
+
+newmtl textures/ssctf3/lightb.vertex
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd lightb.tga
+
+newmtl textures/ssctf3/lightb2.vertex
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd lightb2.tga
+
+newmtl textures/ssctf3/s_beam_blue
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 1.000000 1.000000 1.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd s_beam_blue.jpg
+
+newmtl textures/ssctf3/s_beam_red
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 1.000000 1.000000 1.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd s_beam_red.jpg
+
+newmtl textures/ssctf3/s_ps_nonsolid
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd metalblack03.jpg
+
+newmtl textures/ssctf3/s_scancode.vertex
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd s_scancode.tga
+
+newmtl textures/ssctf3/ssctf3_metal2_trans
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd bluemetal3b.jpg
+
+newmtl textures/ssctf3/ssctf3_metal_trans
+Ns 0.000010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd bluemetalsupport2.tga
+
+newmtl textures/ssctf3/ssctf3_skybox.vertex
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd woodceiling1a.jpg

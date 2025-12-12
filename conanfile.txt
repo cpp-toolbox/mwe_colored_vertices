@@ -1,0 +1,17 @@
+[requires]
+openal-soft/1.23.1
+libsndfile/1.2.2
+glad/0.1.36
+glfw/3.4
+assimp/5.4.3
+glm/1.0.1
+fmt/11.2.0
+spdlog/1.15.3
+stb/cci.20230920
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
+[layout]
+cmake_layout

@@ -1,0 +1,129 @@
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:cpp-toolbox/scripts.git
+[submodule "src/system_logic/toolbox_engine"]
+	path = src/system_logic/toolbox_engine
+	url = git@github.com:cpp-toolbox/toolbox_engine.git
+[submodule "src/graphics/fps_camera"]
+	path = src/graphics/fps_camera
+	url = git@github.com:cpp-toolbox/fps_camera.git
+[submodule "src/input/input_state"]
+	path = src/input/input_state
+	url = git@github.com:cpp-toolbox/input_state.git
+[submodule "src/utility/config_file_parser"]
+	path = src/utility/config_file_parser
+	url = git@github.com:cpp-toolbox/config_file_parser.git
+[submodule "src/graphics/input_graphics_sound_menu"]
+	path = src/graphics/input_graphics_sound_menu
+	url = git@github.com:cpp-toolbox/input_graphics_sound_menu.git
+[submodule "src/input/glfw_lambda_callback_manager"]
+	path = src/input/glfw_lambda_callback_manager
+	url = git@github.com:cpp-toolbox/glfw_lambda_callback_manager.git
+[submodule "src/graphics/shader_cache"]
+	path = src/graphics/shader_cache
+	url = git@github.com:cpp-toolbox/shader_cache.git
+[submodule "src/utility/fixed_frequency_loop"]
+	path = src/utility/fixed_frequency_loop
+	url = git@github.com:cpp-toolbox/fixed_frequency_loop.git
+[submodule "src/graphics/ui_render_suite_implementation"]
+	path = src/graphics/ui_render_suite_implementation
+	url = git@github.com:cpp-toolbox/ui_render_suite_implementation.git
+[submodule "src/graphics/grid_font"]
+	path = src/graphics/grid_font
+	url = git@github.com:cpp-toolbox/grid_font.git
+[submodule "src/utility/glm_utils"]
+	path = src/utility/glm_utils
+	url = git@github.com:cpp-toolbox/glm_utils.git
+[submodule "src/utility/movement"]
+	path = src/utility/movement
+	url = git@github.com:cpp-toolbox/movement.git
+[submodule "src/graphics/shader_standard"]
+	path = src/graphics/shader_standard
+	url = git@github.com:cpp-toolbox/shader_standard.git
+[submodule "src/utility/logger"]
+	path = src/utility/logger
+	url = git@github.com:cpp-toolbox/logger.git
+[submodule "src/graphics/vertex_geometry"]
+	path = src/graphics/vertex_geometry
+	url = git@github.com:cpp-toolbox/vertex_geometry.git
+[submodule "src/graphics/batcher"]
+	path = src/graphics/batcher
+	url = git@github.com:cpp-toolbox/batcher.git
+[submodule "src/sound/sound_system"]
+	path = src/sound/sound_system
+	url = git@github.com:cpp-toolbox/sound_system.git
+[submodule "src/graphics/ui"]
+	path = src/graphics/ui
+	url = git@github.com:cpp-toolbox/ui.git
+[submodule "src/graphics/colors"]
+	path = src/graphics/colors
+	url = git@github.com:cpp-toolbox/colors.git
+[submodule "src/input/window"]
+	path = src/input/window
+	url = git@github.com:cpp-toolbox/window.git
+[submodule "src/utility/text_utils"]
+	path = src/utility/text_utils
+	url = git@github.com:cpp-toolbox/text_utils.git
+[submodule "src/graphics/draw_info"]
+	path = src/graphics/draw_info
+	url = git@github.com:cpp-toolbox/draw_info.git
+[submodule "src/utility/transform"]
+	path = src/utility/transform
+	url = git@github.com:cpp-toolbox/transform.git
+[submodule "src/input/mouse"]
+	path = src/input/mouse
+	url = git@github.com:cpp-toolbox/mouse.git
+[submodule "src/utility/observable"]
+	path = src/utility/observable
+	url = git@github.com:cpp-toolbox/observable.git
+[submodule "src/utility/linalg_utils"]
+	path = src/utility/linalg_utils
+	url = git@github.com:cpp-toolbox/linalg_utils.git
+[submodule "src/utility/temporal_binary_switch"]
+	path = src/utility/temporal_binary_switch
+	url = git@github.com:cpp-toolbox/temporal_binary_switch.git
+[submodule "src/utility/fs_utils"]
+	path = src/utility/fs_utils
+	url = git@github.com:cpp-toolbox/fs_utils.git
+[submodule "src/utility/stopwatch"]
+	path = src/utility/stopwatch
+	url = git@github.com:cpp-toolbox/stopwatch.git
+[submodule "src/utility/math_utils"]
+	path = src/utility/math_utils
+	url = git@github.com:cpp-toolbox/math_utils.git
+[submodule "src/utility/regex_utils"]
+	path = src/utility/regex_utils
+	url = git@github.com:cpp-toolbox/regex_utils.git
+[submodule "src/utility/glm_printing"]
+	path = src/utility/glm_printing
+	url = git@github.com:cpp-toolbox/glm_printing.git
+[submodule "src/utility/unique_id_generator"]
+	path = src/utility/unique_id_generator
+	url = git@github.com:cpp-toolbox/unique_id_generator.git
+[submodule "src/utility/temporal_binary_signal"]
+	path = src/utility/temporal_binary_signal
+	url = git@github.com:cpp-toolbox/temporal_binary_signal.git
+[submodule "src/utility/fixed_size_array_tracker"]
+	path = src/utility/fixed_size_array_tracker
+	url = git@github.com:cpp-toolbox/fixed_size_array_tracker.git
+[submodule "src/utility/turns"]
+	path = src/utility/turns
+	url = git@github.com:cpp-toolbox/turns.git
+[submodule "src/utility/circular_vector"]
+	path = src/utility/circular_vector
+	url = git@github.com:cpp-toolbox/circular_vector.git
+[submodule "src/utility/lazy_construction"]
+	path = src/utility/lazy_construction
+	url = git@github.com:cpp-toolbox/lazy_construction.git
+[submodule "src/utility/expiring_temporal_vector"]
+	path = src/utility/expiring_temporal_vector
+	url = git@github.com:cpp-toolbox/expiring_temporal_vector.git
+[submodule "assets/shaders"]
+	path = assets/shaders
+	url = git@github.com:cpp-toolbox/shaders.git
+[submodule "src/utility/glfw_input_adapter"]
+	path = src/utility/glfw_input_adapter
+	url = git@github.com:cpp-toolbox/glfw_input_adapter.git
+[submodule "src/utility/model_loading"]
+	path = src/utility/model_loading
+	url = git@github.com:cpp-toolbox/model_loading.git
